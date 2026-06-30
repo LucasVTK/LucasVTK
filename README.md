@@ -24,7 +24,7 @@ Aplicação de delivery de comida, com listagem de restaurantes, carrinho de com
 
 ### ✅ Lista de Tarefas
 Aplicação para gerenciamento de tarefas, com funcionalidades de criar, editar, concluir e excluir itens.
-🔗 https://github.com/LucasVTK/minhas-tarefas-Lucas
+🔗 https://github.com/LucasVTK/minhas-tarefas-Lucas // https://minhas-tarefas-lucas.vercel.app
 
 ### 🔍 Busca de Perfil GitHub
 Aplicação que consome a API do GitHub para buscar e exibir informações de perfis de usuários.
