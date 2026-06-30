@@ -6,8 +6,6 @@
 
 ## 🚀 Stack
 
-## 🚀 Stack
-
 - **Back-end:** Node.js, Express, SQL Server, JWT
 - **Front-end:** React, JavaScript, HTML, CSS
 - **Cloud:** Azure
